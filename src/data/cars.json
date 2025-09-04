@@ -1,0 +1,72 @@
+[
+    {
+        "Name": "BYD",
+        "Model": "Dolphin",
+        "Image": "https://www.mad4wheels.com/img/free-car-images/mobile/20311/byd-dolphin-2023-718204.jpg",
+        "Price": 99990,
+        "Location": "São Paulo"
+    },
+    {
+        "Name": "Toyota",
+        "Model": "Corolla",
+        "Image": "https://www.mad4wheels.com/img/free-car-images/mobile/20166/toyota-corolla-sedan-2023-708528.jpg",
+        "Price": 112000,
+        "Location": "São Paulo"
+    },
+    {
+        "Name": "Volkswagen",
+        "Model": "T-Cross",
+        "Image": "https://www.mad4wheels.com/img/free-car-images/mobile/20487/volkswagen-t-cross-2024-728053.jpg",
+        "Price": 118500,
+        "Location": "Campinas"
+    },
+    {
+        "Name": "Honda",
+        "Model": "Civic",
+        "Image": "https://imgs.search.brave.com/XPDRjUZ6iixvrafecuOyvmLKt8qqq4RqPoJ_kQWFqRo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zMi1h/dXRvZXNwb3J0ZS5n/bGJpbWcuY29tL1Nk/Nk1fWFJaVzlYVER6/ZEpxUHp4SWNuNkJX/MD0vMHgwOjE5MjB4/MTI4MC85ODR4MC9z/bWFydC9maWx0ZXJz/OnN0cmlwX2ljYygp/L2kuczMuZ2xiaW1n/LmNvbS92MS9BVVRI/X2NmOWQwMzViZjI2/YjQ2NDZiMTA1YmQ5/NThmMzIwODlkL2lu/dGVybmFsX3Bob3Rv/cy9icy8yMDI0L28v/ei9HNmxQSDJSTjZV/eTAzcnRVMmNiZy8w/MS0yMDI1LWhvbmRh/LWNpdmljLXNlZGFu/LXNwb3J0LXRvdXJp/bmctaHlicmlkLmpw/Zw",
+        "Price": 105000,
+        "Location": "Rio de Janeiro"
+    },
+    {
+        "Name": "Chevrolet",
+        "Model": "Onix",
+        "Image": "https://imgs.search.brave.com/fIz8ii6eagwSjm5IeTe5sokAHof1HtKrpMHKnTT5zXk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YXV0b21lY2NoZXZy/b2xldC5jb20uYnIv/Y29udGVudC9kYW0v/Y2hldnJvbGV0L3Nh/L2JyL3B0L21hc3Rl/ci9ob21lL2NhcnMv/b25peC9vbml4LTIw/MjYvNC1zZWd1cmFu/Y2EvZGVzay9haXJi/YWdzLWNoZXZyb2xl/dC1vbml4LTIwMjYu/anBnP2ltd2lkdGg9/OTYw",
+        "Price": 85000,
+        "Location": "Belo Horizonte"
+    },
+    {
+        "Name": "Hyundai",
+        "Model": "HB20",
+        "Image": "https://www.mad4wheels.com/img/free-car-images/mobile/11404/hyundai-hb20-2012-359893.jpg",
+        "Price": 79000,
+        "Location": "São Paulo"
+    },
+    {
+        "Name": "Renault",
+        "Model": "Kwid",
+        "Image": "https://imgs.search.brave.com/x6l5bGZybE5O-8wL-ZX7E9xTi3_d-qMoUL5jxP2SCWU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zMi1h/dXRvZXNwb3J0ZS5n/bGJpbWcuY29tL3JG/bTRvcmFObWdkOE05/eENTMzkxU3FCR3hJ/QT0vZml0LWluLzc1/MHg0MTUvc21hcnQv/ZmlsdGVyczpzdHJp/cF9pY2MoKS9pLnMz/LmdsYmltZy5jb20v/djEvQVVUSF9jZjlk/MDM1YmYyNmI0NjQ2/YjEwNWJkOTU4ZjMy/MDg5ZC9pbnRlcm5h/bF9waG90b3MvYnMv/MjAyNS84L1QvdGtr/azF4UmthQjhZSlFy/MnZ2VFEvaW1hZ2Ut/MS0uanBn",
+        "Price": 68990,
+        "Location": "Curitiba"
+    },
+    {
+        "Name": "Fiat",
+        "Model": "Pulse",
+        "Image": "https://www.mad4wheels.com/img/free-car-images/mobile/21772/abarth-pulse-brazil-version-2026-815975.jpg",
+        "Price": 96000,
+        "Location": "São Paulo"
+    },
+    {
+        "Name": "Jeep",
+        "Model": "Renegade",
+        "Image": "https://imgs.search.brave.com/ixa6GhXkObmZ5rZyelHFNtGMi1xMa0zwj3_66auAIXY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9xdWF0/cm9yb2Rhcy5hYnJp/bC5jb20uYnIvd3At/Y29udGVudC91cGxv/YWRzLzIwMjUvMDgv/UmVuZWdhZGVfVHJh/aWxoYXdrXzAxMjYu/anBnP3F1YWxpdHk9/NzAmc3RyaXA9aW5m/byZ3PTEyODAmaD03/MjAmY3JvcD0x",
+        "Price": 122000,
+        "Location": "Porto Alegre"
+    },
+    {
+        "Name": "Peugeot",
+        "Model": "208",
+        "Image": "https://www.mad4wheels.com/img/free-car-images/mobile/17116/peugeot-208-2019-537863.jpg",
+        "Price": 87500,
+        "Location": "São Paulo"
+    }
+]
